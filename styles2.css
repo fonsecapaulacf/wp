@@ -1,0 +1,37 @@
+body {
+  margin: 30px auto;
+  max-width: 500px;
+}
+
+.main-icon {
+  font-size: 80px;
+  color: orange;
+  margin-left: 20px;
+}
+
+.icon-hs {
+  color: orangered;
+  font-size: 20px;
+}
+.main-doc {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(242, 235, 243) 0%,
+    rgb(234, 241, 249) 90.1%
+  );
+}
+.cities {
+  text-align: center;
+  color: grey;
+}
+.days {
+  color: grey;
+  text-align: center;
+}
+
+.search-button {
+  text-align: left;
+}
+.search-form {
+  text-align: right;
+}
