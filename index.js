@@ -1,5 +1,3 @@
-alert("Hi");
-
 let currentTime = new Date();
 
 function formatDate(date) {
